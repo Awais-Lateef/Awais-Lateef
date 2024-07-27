@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me,  email: jamesawais2001@gmail.com
-- 😄 Pronouns: Awais
+- 😄 Pronouns: 
 - ⚡ Fun fact: loving   coding, logic and projects 
 
 <!---
